@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Stickes
+Comment=A simple StickNotes application using Rustic for the COSMIC™ desktop.
+Type=Application
+Icon=com.satyakommula.stickes
+Exec=stickes %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
